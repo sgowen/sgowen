@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sgowen
+- 👋 Hi, I’m Stephen Gowen
 - 👀 I’m interested in using GitHub to organize my mind
 - 🌱 I’m currently learning how to keep the various facets of my life separated
 - 💞️ I’m looking to collaborate on games always, wanna work on my game engine with me?
