@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Stephen Gowen
-- 👀 I’m interested in using GitHub to organize my mind
-- 🌱 I’m currently learning how to keep the various facets of my life separated
-- 💞️ I’m looking to collaborate on games always, wanna work on my game engine with me?
+- 👀 I’m interested in using GitHub to organize my mind and work on my game engine
+- 🌱 I’m currently learning how to use OpenAL Soft
+- 💞️ I’m looking to collaborate on games always, are you a designer in need of a coder?
 - 📫 How to reach me main.sgowen@gmail.com
 - Looking for my professional profile? https://github.com/sgowdev
-- Also, I'm an Indie Game Dev https://github.com/sgowindie
 
 <!---
 sgowen/sgowen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
