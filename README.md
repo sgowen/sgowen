@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to use OpenAL Soft
 - 💞️ I’m looking to collaborate on games always, are you an artist?
 - 📫 How to reach me dev.sgowen@gmail.com
+- Resume hosted [here](https://registry.jsonresume.org/sgowen)
 
 <!---
 sgowen/sgowen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
